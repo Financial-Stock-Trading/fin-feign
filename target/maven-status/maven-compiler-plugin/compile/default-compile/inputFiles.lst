@@ -1,0 +1,9 @@
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/client/AccountServiceClient.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/domain/Order.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/client/OrderServiceClient.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/config/ResourceServerConfig.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/FeignHystrixClientApplication.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/IntegrationOrderController.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/IntegrationAccountController.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/domain/OrderItem.java
+/home/user/Documents/03. Education/financial-stock-broker-2/support/feign-hystrix-client/src/main/java/com/investment/feign_hystrix/integration/IntegrationClient.java

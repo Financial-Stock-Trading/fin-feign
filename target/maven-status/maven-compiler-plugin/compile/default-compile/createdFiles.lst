@@ -1,0 +1,11 @@
+com/investment/feign_hystrix/integration/domain/OrderItem$OrderItemBuilder.class
+com/investment/feign_hystrix/integration/domain/Order$OrderBuilder.class
+com/investment/feign_hystrix/config/ResourceServerConfig.class
+com/investment/feign_hystrix/integration/domain/Order.class
+com/investment/feign_hystrix/integration/IntegrationClient.class
+com/investment/feign_hystrix/FeignHystrixClientApplication.class
+com/investment/feign_hystrix/integration/IntegrationOrderController.class
+com/investment/feign_hystrix/integration/client/AccountServiceClient.class
+com/investment/feign_hystrix/integration/domain/OrderItem.class
+com/investment/feign_hystrix/integration/client/OrderServiceClient.class
+com/investment/feign_hystrix/integration/IntegrationAccountController.class
